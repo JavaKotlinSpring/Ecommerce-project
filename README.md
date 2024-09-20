@@ -14,4 +14,5 @@ Use : Java, Spring, Mysql
 - [ ] 상품 삭제
 - [ ] 장바구니
 
+## ERD
 <img width="725" alt="image" src="https://github.com/user-attachments/assets/09465470-33e3-437a-986e-f4397afad9d5">
