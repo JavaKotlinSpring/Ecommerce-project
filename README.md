@@ -1,6 +1,6 @@
-# Ecommerce-project
+# 이커머스 서비스
 ## 개요
-고객과 판매자 사이를 중개해주는 이커머스 서비스
+고객과 판매자 사이를 중개해주는 서비스
 
 Use : Java, Spring, Mysql
 
