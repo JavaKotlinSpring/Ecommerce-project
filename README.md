@@ -6,6 +6,8 @@ Use : Java, Spring, Mysql
 
 ## 회원
 - [ ] 회원 가입
+- [ ] 회원 조회
+- [ ] 회원 목록
 
 ## 주문
 - [ ] 상품 등록
@@ -15,4 +17,3 @@ Use : Java, Spring, Mysql
 - [ ] 장바구니
 
 ## ERD
-<img width="725" alt="image" src="https://github.com/user-attachments/assets/09465470-33e3-437a-986e-f4397afad9d5">
